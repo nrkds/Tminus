@@ -1,0 +1,39 @@
+<resources>
+    <properties>
+        <property id="name1" type="string"></property>
+        <property id="type1" type="number">5</property>
+        <property id="date1" type="string"></property>
+        <property id="time1" type="string">09:00</property>
+        <property id="tz1" type="number">9999</property>
+        <property id="name2" type="string"></property>
+        <property id="type2" type="number">5</property>
+        <property id="date2" type="string"></property>
+        <property id="time2" type="string">09:00</property>
+        <property id="tz2" type="number">9999</property>
+        <property id="name3" type="string"></property>
+        <property id="type3" type="number">5</property>
+        <property id="date3" type="string"></property>
+        <property id="time3" type="string">09:00</property>
+        <property id="tz3" type="number">9999</property>
+        <property id="name4" type="string"></property>
+        <property id="type4" type="number">5</property>
+        <property id="date4" type="string"></property>
+        <property id="time4" type="string">09:00</property>
+        <property id="tz4" type="number">9999</property>
+        <property id="name5" type="string"></property>
+        <property id="type5" type="number">5</property>
+        <property id="date5" type="string"></property>
+        <property id="time5" type="string">09:00</property>
+        <property id="tz5" type="number">9999</property>
+        <property id="name6" type="string"></property>
+        <property id="type6" type="number">5</property>
+        <property id="date6" type="string"></property>
+        <property id="time6" type="string">09:00</property>
+        <property id="tz6" type="number">9999</property>
+        <property id="name7" type="string"></property>
+        <property id="type7" type="number">5</property>
+        <property id="date7" type="string"></property>
+        <property id="time7" type="string">09:00</property>
+        <property id="tz7" type="number">9999</property>
+    </properties>
+</resources>

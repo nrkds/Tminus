@@ -1,0 +1,268 @@
+<settings>
+    <setting propertyKey="@Properties.name1" title="@Strings.Ev1Name" prompt="@Strings.PromptName">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.type1" title="@Strings.Ev1Type">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.TypeRace</listEntry>
+            <listEntry value="1">@Strings.TypeVacation</listEntry>
+            <listEntry value="2">@Strings.TypeBirthday</listEntry>
+            <listEntry value="3">@Strings.TypeFlight</listEntry>
+            <listEntry value="4">@Strings.TypeDoctor</listEntry>
+            <listEntry value="5">@Strings.TypeCustom</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.date1" title="@Strings.Ev1Date" prompt="@Strings.PromptDate">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.time1" title="@Strings.Ev1Time" prompt="@Strings.PromptTime">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.tz1" title="@Strings.Ev1Tz">
+        <settingConfig type="list">
+            <listEntry value="9999">@Strings.TzWatch</listEntry>
+            <listEntry value="-600">@Strings.TzHawaii</listEntry>
+            <listEntry value="-540">@Strings.TzAlaska</listEntry>
+            <listEntry value="-480">@Strings.TzPacific</listEntry>
+            <listEntry value="-420">@Strings.TzMountain</listEntry>
+            <listEntry value="-360">@Strings.TzCentral</listEntry>
+            <listEntry value="-300">@Strings.TzEastern</listEntry>
+            <listEntry value="-240">@Strings.TzAtlantic</listEntry>
+            <listEntry value="0">@Strings.TzUtc</listEntry>
+            <listEntry value="60">@Strings.TzCet</listEntry>
+            <listEntry value="120">@Strings.TzEet</listEntry>
+            <listEntry value="330">@Strings.TzIndia</listEntry>
+            <listEntry value="480">@Strings.TzChina</listEntry>
+            <listEntry value="540">@Strings.TzJapan</listEntry>
+            <listEntry value="600">@Strings.TzSydney</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.name2" title="@Strings.Ev2Name" prompt="@Strings.PromptName">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.type2" title="@Strings.Ev2Type">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.TypeRace</listEntry>
+            <listEntry value="1">@Strings.TypeVacation</listEntry>
+            <listEntry value="2">@Strings.TypeBirthday</listEntry>
+            <listEntry value="3">@Strings.TypeFlight</listEntry>
+            <listEntry value="4">@Strings.TypeDoctor</listEntry>
+            <listEntry value="5">@Strings.TypeCustom</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.date2" title="@Strings.Ev2Date" prompt="@Strings.PromptDate">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.time2" title="@Strings.Ev2Time" prompt="@Strings.PromptTime">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.tz2" title="@Strings.Ev2Tz">
+        <settingConfig type="list">
+            <listEntry value="9999">@Strings.TzWatch</listEntry>
+            <listEntry value="-600">@Strings.TzHawaii</listEntry>
+            <listEntry value="-540">@Strings.TzAlaska</listEntry>
+            <listEntry value="-480">@Strings.TzPacific</listEntry>
+            <listEntry value="-420">@Strings.TzMountain</listEntry>
+            <listEntry value="-360">@Strings.TzCentral</listEntry>
+            <listEntry value="-300">@Strings.TzEastern</listEntry>
+            <listEntry value="-240">@Strings.TzAtlantic</listEntry>
+            <listEntry value="0">@Strings.TzUtc</listEntry>
+            <listEntry value="60">@Strings.TzCet</listEntry>
+            <listEntry value="120">@Strings.TzEet</listEntry>
+            <listEntry value="330">@Strings.TzIndia</listEntry>
+            <listEntry value="480">@Strings.TzChina</listEntry>
+            <listEntry value="540">@Strings.TzJapan</listEntry>
+            <listEntry value="600">@Strings.TzSydney</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.name3" title="@Strings.Ev3Name" prompt="@Strings.PromptName">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.type3" title="@Strings.Ev3Type">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.TypeRace</listEntry>
+            <listEntry value="1">@Strings.TypeVacation</listEntry>
+            <listEntry value="2">@Strings.TypeBirthday</listEntry>
+            <listEntry value="3">@Strings.TypeFlight</listEntry>
+            <listEntry value="4">@Strings.TypeDoctor</listEntry>
+            <listEntry value="5">@Strings.TypeCustom</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.date3" title="@Strings.Ev3Date" prompt="@Strings.PromptDate">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.time3" title="@Strings.Ev3Time" prompt="@Strings.PromptTime">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.tz3" title="@Strings.Ev3Tz">
+        <settingConfig type="list">
+            <listEntry value="9999">@Strings.TzWatch</listEntry>
+            <listEntry value="-600">@Strings.TzHawaii</listEntry>
+            <listEntry value="-540">@Strings.TzAlaska</listEntry>
+            <listEntry value="-480">@Strings.TzPacific</listEntry>
+            <listEntry value="-420">@Strings.TzMountain</listEntry>
+            <listEntry value="-360">@Strings.TzCentral</listEntry>
+            <listEntry value="-300">@Strings.TzEastern</listEntry>
+            <listEntry value="-240">@Strings.TzAtlantic</listEntry>
+            <listEntry value="0">@Strings.TzUtc</listEntry>
+            <listEntry value="60">@Strings.TzCet</listEntry>
+            <listEntry value="120">@Strings.TzEet</listEntry>
+            <listEntry value="330">@Strings.TzIndia</listEntry>
+            <listEntry value="480">@Strings.TzChina</listEntry>
+            <listEntry value="540">@Strings.TzJapan</listEntry>
+            <listEntry value="600">@Strings.TzSydney</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.name4" title="@Strings.Ev4Name" prompt="@Strings.PromptName">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.type4" title="@Strings.Ev4Type">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.TypeRace</listEntry>
+            <listEntry value="1">@Strings.TypeVacation</listEntry>
+            <listEntry value="2">@Strings.TypeBirthday</listEntry>
+            <listEntry value="3">@Strings.TypeFlight</listEntry>
+            <listEntry value="4">@Strings.TypeDoctor</listEntry>
+            <listEntry value="5">@Strings.TypeCustom</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.date4" title="@Strings.Ev4Date" prompt="@Strings.PromptDate">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.time4" title="@Strings.Ev4Time" prompt="@Strings.PromptTime">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.tz4" title="@Strings.Ev4Tz">
+        <settingConfig type="list">
+            <listEntry value="9999">@Strings.TzWatch</listEntry>
+            <listEntry value="-600">@Strings.TzHawaii</listEntry>
+            <listEntry value="-540">@Strings.TzAlaska</listEntry>
+            <listEntry value="-480">@Strings.TzPacific</listEntry>
+            <listEntry value="-420">@Strings.TzMountain</listEntry>
+            <listEntry value="-360">@Strings.TzCentral</listEntry>
+            <listEntry value="-300">@Strings.TzEastern</listEntry>
+            <listEntry value="-240">@Strings.TzAtlantic</listEntry>
+            <listEntry value="0">@Strings.TzUtc</listEntry>
+            <listEntry value="60">@Strings.TzCet</listEntry>
+            <listEntry value="120">@Strings.TzEet</listEntry>
+            <listEntry value="330">@Strings.TzIndia</listEntry>
+            <listEntry value="480">@Strings.TzChina</listEntry>
+            <listEntry value="540">@Strings.TzJapan</listEntry>
+            <listEntry value="600">@Strings.TzSydney</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.name5" title="@Strings.Ev5Name" prompt="@Strings.PromptName">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.type5" title="@Strings.Ev5Type">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.TypeRace</listEntry>
+            <listEntry value="1">@Strings.TypeVacation</listEntry>
+            <listEntry value="2">@Strings.TypeBirthday</listEntry>
+            <listEntry value="3">@Strings.TypeFlight</listEntry>
+            <listEntry value="4">@Strings.TypeDoctor</listEntry>
+            <listEntry value="5">@Strings.TypeCustom</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.date5" title="@Strings.Ev5Date" prompt="@Strings.PromptDate">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.time5" title="@Strings.Ev5Time" prompt="@Strings.PromptTime">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.tz5" title="@Strings.Ev5Tz">
+        <settingConfig type="list">
+            <listEntry value="9999">@Strings.TzWatch</listEntry>
+            <listEntry value="-600">@Strings.TzHawaii</listEntry>
+            <listEntry value="-540">@Strings.TzAlaska</listEntry>
+            <listEntry value="-480">@Strings.TzPacific</listEntry>
+            <listEntry value="-420">@Strings.TzMountain</listEntry>
+            <listEntry value="-360">@Strings.TzCentral</listEntry>
+            <listEntry value="-300">@Strings.TzEastern</listEntry>
+            <listEntry value="-240">@Strings.TzAtlantic</listEntry>
+            <listEntry value="0">@Strings.TzUtc</listEntry>
+            <listEntry value="60">@Strings.TzCet</listEntry>
+            <listEntry value="120">@Strings.TzEet</listEntry>
+            <listEntry value="330">@Strings.TzIndia</listEntry>
+            <listEntry value="480">@Strings.TzChina</listEntry>
+            <listEntry value="540">@Strings.TzJapan</listEntry>
+            <listEntry value="600">@Strings.TzSydney</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.name6" title="@Strings.Ev6Name" prompt="@Strings.PromptName">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.type6" title="@Strings.Ev6Type">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.TypeRace</listEntry>
+            <listEntry value="1">@Strings.TypeVacation</listEntry>
+            <listEntry value="2">@Strings.TypeBirthday</listEntry>
+            <listEntry value="3">@Strings.TypeFlight</listEntry>
+            <listEntry value="4">@Strings.TypeDoctor</listEntry>
+            <listEntry value="5">@Strings.TypeCustom</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.date6" title="@Strings.Ev6Date" prompt="@Strings.PromptDate">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.time6" title="@Strings.Ev6Time" prompt="@Strings.PromptTime">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.tz6" title="@Strings.Ev6Tz">
+        <settingConfig type="list">
+            <listEntry value="9999">@Strings.TzWatch</listEntry>
+            <listEntry value="-600">@Strings.TzHawaii</listEntry>
+            <listEntry value="-540">@Strings.TzAlaska</listEntry>
+            <listEntry value="-480">@Strings.TzPacific</listEntry>
+            <listEntry value="-420">@Strings.TzMountain</listEntry>
+            <listEntry value="-360">@Strings.TzCentral</listEntry>
+            <listEntry value="-300">@Strings.TzEastern</listEntry>
+            <listEntry value="-240">@Strings.TzAtlantic</listEntry>
+            <listEntry value="0">@Strings.TzUtc</listEntry>
+            <listEntry value="60">@Strings.TzCet</listEntry>
+            <listEntry value="120">@Strings.TzEet</listEntry>
+            <listEntry value="330">@Strings.TzIndia</listEntry>
+            <listEntry value="480">@Strings.TzChina</listEntry>
+            <listEntry value="540">@Strings.TzJapan</listEntry>
+            <listEntry value="600">@Strings.TzSydney</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.name7" title="@Strings.Ev7Name" prompt="@Strings.PromptName">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.type7" title="@Strings.Ev7Type">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.TypeRace</listEntry>
+            <listEntry value="1">@Strings.TypeVacation</listEntry>
+            <listEntry value="2">@Strings.TypeBirthday</listEntry>
+            <listEntry value="3">@Strings.TypeFlight</listEntry>
+            <listEntry value="4">@Strings.TypeDoctor</listEntry>
+            <listEntry value="5">@Strings.TypeCustom</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.date7" title="@Strings.Ev7Date" prompt="@Strings.PromptDate">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.time7" title="@Strings.Ev7Time" prompt="@Strings.PromptTime">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.tz7" title="@Strings.Ev7Tz">
+        <settingConfig type="list">
+            <listEntry value="9999">@Strings.TzWatch</listEntry>
+            <listEntry value="-600">@Strings.TzHawaii</listEntry>
+            <listEntry value="-540">@Strings.TzAlaska</listEntry>
+            <listEntry value="-480">@Strings.TzPacific</listEntry>
+            <listEntry value="-420">@Strings.TzMountain</listEntry>
+            <listEntry value="-360">@Strings.TzCentral</listEntry>
+            <listEntry value="-300">@Strings.TzEastern</listEntry>
+            <listEntry value="-240">@Strings.TzAtlantic</listEntry>
+            <listEntry value="0">@Strings.TzUtc</listEntry>
+            <listEntry value="60">@Strings.TzCet</listEntry>
+            <listEntry value="120">@Strings.TzEet</listEntry>
+            <listEntry value="330">@Strings.TzIndia</listEntry>
+            <listEntry value="480">@Strings.TzChina</listEntry>
+            <listEntry value="540">@Strings.TzJapan</listEntry>
+            <listEntry value="600">@Strings.TzSydney</listEntry>
+        </settingConfig>
+    </setting>
+</settings>
